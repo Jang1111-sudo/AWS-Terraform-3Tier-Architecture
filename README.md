@@ -80,15 +80,25 @@ EC2 (Nginx)
 
 .
 ├── provider.tf
+
 ├── variables.tf
+
 ├── terraform.tfvars
+
 ├── vpc.tf
+
 ├── subnets.tf
+
 ├── igw.tf
+
 ├── route_tables.tf
+
 ├── security_groups.tf
+
 ├── ec2.tf
+
 ├── data.tf
+
 ├── outputs.tf
 
 
