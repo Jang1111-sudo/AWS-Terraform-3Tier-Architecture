@@ -162,7 +162,7 @@ http://<EC2_PUBLIC_IP>
 
 To avoid AWS charges:
 
-#terraform destroy
+##terraform destroy
 
 ```bash
 📈 Next Steps
