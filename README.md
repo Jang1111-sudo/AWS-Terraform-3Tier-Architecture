@@ -142,6 +142,7 @@ After deployment:
 
 http://<EC2_PUBLIC_IP>
 
+<img width="1080" height="363" alt="image" src="https://github.com/user-attachments/assets/9796348d-52c2-4a17-99d9-80469f1c8ce5" />
 
 ---
 
