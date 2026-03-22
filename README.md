@@ -79,6 +79,7 @@ EC2 (Nginx)
 
 
 .
+
 ├── provider.tf
 
 ├── variables.tf
