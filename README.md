@@ -346,13 +346,17 @@ http://<ALB_DNS_NAME>
 
 result:
 
-<img width="1844" height="381" alt="image" src="https://github.com/user-attachments/assets/8c2aed8c-7707-4ba3-9657-44297a300123" />
+<img width="1844" height="381" alt="image" src="https://github.com/user-attachments/assets/598e0f4a-daf6-437b-a8c3-0e67f55f9398" />
+
 
 <ASG in aws console>
 
-<img width="1844" height="381" alt="image" src="https://github.com/user-attachments/assets/831f38e2-3681-433a-947e-8a56e45b8e16" />
+
+<img width="1844" height="381" alt="image" src="https://github.com/user-attachments/assets/a0afa144-2a99-4282-be79-e0f2b6803cb9" />
+
 
 <ALB in aws console>
+
 
 <img width="1844" height="381" alt="image" src="https://github.com/user-attachments/assets/06951993-b937-4db9-ad99-f81cd9d15489" />
 
