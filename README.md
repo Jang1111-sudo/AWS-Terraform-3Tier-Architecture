@@ -344,6 +344,22 @@ After deployment:
 
 http://<ALB_DNS_NAME>
 
+result:
+
+<img width="1844" height="381" alt="image" src="https://github.com/user-attachments/assets/8c2aed8c-7707-4ba3-9657-44297a300123" />
+
+<ASG in aws console>
+
+<img width="1844" height="381" alt="image" src="https://github.com/user-attachments/assets/831f38e2-3681-433a-947e-8a56e45b8e16" />
+
+<ALB in aws console>
+
+<img width="1844" height="381" alt="image" src="https://github.com/user-attachments/assets/06951993-b937-4db9-ad99-f81cd9d15489" />
+
+<Result of access ALB DNS Name>
+
+
+
 
 ---
 
